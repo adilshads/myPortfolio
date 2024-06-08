@@ -4,7 +4,5 @@ module.exports = defineConfig({
 })
 
 module.exports = {
-  configureWebpack: {
-    // Add your custom webpack configuration here
-  }
-};
+  publicPath: process.env.NODE_ENV === 'production' ? '/myPortfolio/' : '/'
+}

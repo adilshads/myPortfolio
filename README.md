@@ -11,8 +11,6 @@ Welcome to my portfolio! This project showcases my work as a Full Stack Software
 - [Installation](#installation)
 - [Usage](#usage)
 - [Project Structure](#project-structure)
-- [Contributing](#contributing)
-- [License](#license)
 - [Contact](#contact)
 
 ## Introduction
@@ -109,7 +107,7 @@ portfolio
 
 Contact
 
-Adil Shad - adilshads15@gmail.com
+Adil Shad - contactadilshad@gmail.com
 
 Project Link: https://github.com/adilshads/myPortfolio
 
